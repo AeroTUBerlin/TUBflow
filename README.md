@@ -7,3 +7,21 @@ In the accompanying paper, the versatility of the approach is demonstrated by ap
 3) The suction side of a high-lift wing with distributed propulsion.
 The results show that TUBflow enhances the interpretation of oil-film visualizations by effectively capturing complex flow structures across the image sequences. This makes it a promising tool to aid the digital post-processing of oil-film visualizations in ground-testing campaigns.
 
+Required Packages for SourceCode:
+
+PySimpleGUI
+os
+numpy
+cv2
+json
+shutil
+PIL
+io
+math
+matplotlib
+time
+screeninfo
+tkinter
+pyinstaller
+
+Python Version: Python 3.11
