@@ -29,4 +29,5 @@ pyinstaller
 Python Version: Python 3.11
 
 If you like the program and want to use it for your own research, please cite our article in your publications: 
+
 Lennart Rohlfs, Léo Hastrich, Alex Gothow and Julien Weiss. "TUBflow - An Open Source Application for Digital Postprocessing of Oil Film Visualizations in Wind Tunnels," AIAA 2024-4283. AIAA AVIATION FORUM AND ASCEND 2024 . July 2024.
